@@ -6,6 +6,7 @@ A curated list of 1000+ AI/ML tools, libraries, and resources.
 
 ### 🧠 Large Language Models
 - [Hugging Face Transformers](https://github.com/huggingface/transformers) - State-of-the-art ML for PyTorch, TensorFlow, and JAX
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [vLLM](https://github.com/vllm-project/vllm) - High-throughput LLM serving
 - [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Easy fine-tuning of LLMs
 - [TRL](https://github.com/huggingface/trl) - Train transformer language models with RL
