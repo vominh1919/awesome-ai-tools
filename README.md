@@ -26,6 +26,10 @@ A curated list of 1000+ AI/ML tools, libraries, and resources.
 - [GGUF](https://github.com/ggerganov/llama.cpp) - Efficient CPU/GPU inference
 - [Guidance](https://github.com/guidance-ai/guidance) - Structured generation
 
+### 🧩 AI Applications
+- [MindMap AI](https://mindmapai.app/text-summarizer) - Converts documents, PDFs, and text into structured visual mind maps for easier understanding and planning.  
+
+  
 ## Contributing
 
 Feel free to submit PRs to add more tools!
